@@ -1,0 +1,235 @@
+
+
+
+.navbar
+{
+	scroll:fixed;
+	
+}
+
+#donate
+{
+	height:620px;
+	background:silver;
+	border-bottom:1px solid red;
+}
+
+.form-data
+{
+	height:100px;
+
+}
+
+
+button
+{
+	margin-top:25px;
+	margin-right:1000px;
+}
+
+
+.page-section
+{
+	height:620px;
+	background:peru;
+	border-bottom:2px solid red;
+}
+.div
+{
+background:rgba(88,77,77,0.7);
+}
+
+#move
+{
+
+	margin:0;
+	padding:0;
+	width:1349px;
+	height:700px;
+	width:100%;
+	min-width:500px;
+
+}
+
+.nav navbar-nav {-moz-animation-delay:.4s;}
+header{-moz-animation-delay:1.2s;}
+.profile-picture {-moz-animation-delay:4s;}
+.hello{-moz-animation-delay:2s;}
+.eric {-moz-animation-delay:3s;}
+
+.form-control {-moz-animation-delay:2s;}
+.form-group {-moz-animation-delay:2.5s;}
+.form-data {-moz-animation-delay: 3s;}
+.submit-button {-moz-animation-delay: 4s;}
+.section-title {-moz-animation-delay: 4s;}
+.section-body {-moz-animation-delay: 5s;}
+
+
+
+
+
+
+
+
+
+.navbar-default
+{
+	background-color:#474747;
+	margin-bottom:0;
+	border:none;
+}
+
+.logo
+{
+	width:80px;
+	height:80px;
+	padding:10px 15px;
+	background-color:#d559a8;
+}
+
+.navbar-brand,
+.navbar-nav li a{
+	height:80px;
+	line-height:80px;
+	padding:0 25px;
+    margin-left:1px;
+    background-color:#474747;
+    font-size:1.3em;
+    color:#fff;
+    font-family:"Oswald";
+    border-right: 1px solid #393939;
+    -webkit-box-shadow:1px 0px 0px 0px rgba(255,255,255,.1);
+    -moz-box-shadow:1px 0px 0px 0px rgba(255,255, 255, .1);
+    box-shadow: 1px 0px 0px 0px rgba(255, 255, 255, .1);
+}
+
+.navbar-brand
+{
+	padding-right:0;
+
+}
+.navbar-default .navbar-nav>li>a
+{
+	color:#fff;
+}
+.navbar-default .navbar-nav>li>a:hover 
+
+{
+ color:#fff;
+ background-color:#535252;
+
+
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus
+{
+    color:#fff;
+	background:#535252;
+}
+
+/* social icons */
+li.twitter a{
+	width:80px;
+	background-color:#5ea9dd !important;
+	color:#fff !important;
+	font-size:1.8em;
+	text-align:center;
+	box-shadow:none;
+	border-right :none;
+} 
+
+li.facebook a{
+	width:80px;
+	background-color:#3b5998 !important;
+	color:#fff !important;
+	font-size:1.8em;
+	text-align:center;
+	box-shadow:none;
+	border-right :none;
+} 
+
+.navbar-default .navbar-toggle
+{
+
+	margin-top:25px;
+	border-color: #646464;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form
+{
+border-color:#3d3d3d;
+
+
+}
+
+li.twitter a:hover,
+li.facebook a:hover
+{
+	opacity:0.8;
+}
+
+
+/*  Header */
+
+header
+{   
+	height:780px;
+	text-align:center;
+	background-color:#6d6d6d;
+	padding-top:0px;
+	background://// url(../im//g///background.jpg);
+	background-attachment:fixed;
+}
+
+
+header h2
+{
+	
+
+	font-family:"Oswald", sans-serif;
+	color:#fff;
+	font-size:28px;
+	margin-top:0;
+}
+
+header p
+
+{
+	
+    font-family:'oswald';
+	font-size:20px;
+	color:#fff;
+	padding:0 20px;
+
+
+}
+.profile-picture
+{
+	width:180px;
+	height:180px;
+	border:10px solid #fff;
+	-webkit-box-shadow: 0 24px 37px 0 rgba (0,0,0,1);
+	-moz-box-shadow:0px 24px 37px 0px rgba(0,0,0,1);
+	box-shadow:0px 24px 37px 0px rgba(0,0,0,1);
+
+}
+
+.background
+
+{
+	width:1349px;
+	height:600px;
+}
+
+
+@media (max-width:768px)
+{
+.navbar-default .navbar-nav>li>a
+   {
+	width:100%;
+	border-bottom:1px solid #3d3d3d;
+	text-align:center;
+   }
+}
+
